@@ -1,1 +1,18 @@
-/* add CSS class and element and selectors here */
+body {
+  background-color: lightblue;
+  font-size: 150%;
+}
+.myClass {
+  background-color: gray;
+  color: blue
+}
+
+.rose {
+  font-size: 700%;
+  background-color: pink;
+  color: yellow;
+}
+
+#myHeaderId {
+  color:blue;
+}
