@@ -12,3 +12,7 @@ body {
   background-color: pink;
   color: yellow;
 }
+
+#myHeaderId {
+  color:blue;
+}
