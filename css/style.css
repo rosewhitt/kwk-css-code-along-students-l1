@@ -6,3 +6,8 @@ body {
   background-color: gray;
   color: blue
 }
+
+.rose {
+  font-size: 700%;
+  background-color: pink;
+}
